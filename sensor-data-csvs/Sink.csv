@@ -1,0 +1,2295 @@
+node2,85,node2==>node4==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node4==>node6
+node2,81,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,82,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,83,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,95,node2==>node1==>node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,90,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,98,node2==>node1==>node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 38,node3==>node4==>node6
+node2,93,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,95,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: ,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Temperature,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,36.58,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,36.73,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,36.89,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,37,node3==>node4==>node6
+node2,99,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,91,node2==>node1==>node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: ,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Temperature,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.58,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.89,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,37,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,HeartRate,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node5==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node4==>node6
+node2,81,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,83,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node1,High Blood Pressure: 135,node1==>node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,83,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node5==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node5==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node5==>node6
+node2,82,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,36.73,node3==>node5==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,81,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node4==>node6
+node2,83,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,92,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node1,High Blood Pressure: 140,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node5==>node6
+node1,High Blood Pressure: 127,node1==>node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 38,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,82,node2==>node4==>node5==>node6
+node2,82,node2==>node4==>node5==>node6
+node3,36.58,node3==>node4==>node5==>node6
+node3,36.58,node3==>node4==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node4==>node6
+node2,81,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,82,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,37,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node2,83,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node1,Low Blood Pressure: 67,node1==>node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node1,High Blood Pressure: 131,node1==>node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node1,High Blood Pressure: 139,node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,81,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,83,node2==>node5==>node6
+node3,36.89,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,37,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,83,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node1,Low Blood Pressure: 67,node1==>node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node3,Temperature,node3==>node1==>node2==>node1==>node2==>node4==>node6
+node2,82,node2==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node1==>node2==>node4==>node6
+node2,84,node2==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node1==>node2==>node4==>node6
+node2,80,node2==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,81,node2==>node4==>node6
+node2,81,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node3,36.89,node3==>node5==>node6
+node3,36.89,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node3,37,node3==>node1==>node2==>node5==>node6
+node3,37,node3==>node1==>node2==>node5==>node6
+node3,37,node3==>node1==>node2==>node5==>node6
+node3,37,node3==>node1==>node2==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node3,36.99,node3==>node1==>node2==>node1==>node2==>node5==>node6
+node2,83,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node2,83,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node2==>node4==>node6
+node1,High Blood Pressure: 138,node1==>node2==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node1==>node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node1==>node2==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,80,node2==>node1==>node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,81,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,82,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,83,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,85,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,97,node2==>node1==>node3==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node4==>node6
+node2,98,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,97,node2==>node1==>node3==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node2,93,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,95,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,95,node2==>node1==>node3==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,92,node2==>node1==>node3==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node4==>node6
+node2,97,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,96,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node5==>node6
+node2,91,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node4==>node6
+node2,99,node2==>node1==>node3==>node5==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node4==>node6
+node2,96,node2==>node1==>node3==>node1==>node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node1==>node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: ,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Temperature,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,36.89,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,37,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node1,High Blood Pressure: 140,node1==>node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node5==>node6
+node2,81,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,83,node2==>node4==>node6
+node3,36.89,node3==>node4==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,82,node2==>node5==>node6
+node3,37,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,83,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,93,node2==>node1==>node3==>node1==>node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node1,High Blood Pressure: 131,node1==>node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 38,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,95,node2==>node1==>node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node1,High Blood Pressure: 124,node1==>node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node5==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node4==>node6
+node2,99,node2==>node1==>node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node5==>node6
+node1,High Blood Pressure: 126,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node1,High Blood Pressure: 131,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node4==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: ,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Temperature,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node1,High Blood Pressure: 122,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,36.89,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,37,node3==>node5==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node1,High Blood Pressure: 136,node1==>node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node1,High Blood Pressure: 131,node1==>node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node1,High Blood Pressure: 121,node1==>node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node1,High Blood Pressure: 129,node1==>node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node1,High Blood Pressure: 128,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node4==>node6
+node1,High Blood Pressure: 127,node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node1,High Blood Pressure: 131,node1==>node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node4==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node4==>node6
+node1,High Blood Pressure: 135,node1==>node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node4==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node4==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: ,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Temperature,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,36.73,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node1,High Blood Pressure: 139,node1==>node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,36.89,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node1,High Blood Pressure: 135,node1==>node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,37,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node1,High Blood Pressure: 127,node1==>node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node1,High Blood Pressure: 139,node1==>node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,HeartRate,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node5==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node4==>node6
+node1,High Blood Pressure: 139,node1==>node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node4==>node6
+node2,81,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node1,High Blood Pressure: 135,node1==>node3==>node5==>node6
+node2,83,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,82,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,83,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node5==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,84,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node4==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node4==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node1,High Blood Pressure: 125,node1==>node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node4==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node4==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node4==>node6
+node1,High Blood Pressure: 134,node1==>node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node1,High Blood Pressure: 128,node1==>node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: ,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Temperature,node3==>node5==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,36.58,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,36.93,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,36.89,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,37,node3==>node5==>node6
+node1,High Blood Pressure: 140,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,36.99,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node1,High Blood Pressure: 132,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,36.98,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node1,High Blood Pressure: 138,node1==>node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node1,High Blood Pressure: 122,node1==>node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node1,High Blood Pressure: 133,node1==>node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node1,High Blood Pressure: 137,node1==>node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node1,High Blood Pressure: 130,node1==>node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,94,node2==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node4==>node6
+node2,99,node2==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node1==>node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: ,node3==>node4==>node6
+node2,96,node2==>node5==>node6
+node3,Temperature,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.58,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.73,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,98,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,36.89,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,37,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,36.9,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,36.99,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.04,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.07,node3==>node5==>node6
+node2,93,node2==>node5==>node6
+node3,36.98,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.01,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,36.97,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,36.97,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.13,node3==>node4==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.14,node3==>node4==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.12,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.17,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.28,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.44,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node5==>node6
+node2,94,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.51,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.98,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node4==>node6
+node2,93,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.24,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node5==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.02,node3==>node4==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.11,node3==>node4==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.91,node3==>node5==>node6
+node2,92,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node4==>node6
+node2,98,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.03,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.17,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node5==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.18,node3==>node4==>node6
+node2,91,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node4==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.96,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.83,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node5==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.74,node3==>node5==>node6
+node2,99,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node5==>node6
+node2,96,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.63,node3==>node5==>node6
+node2,90,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.06,node3==>node4==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.19,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.35,node3==>node5==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.25,node3==>node5==>node6
+node2,96,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node4==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node4==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.95,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.6,node3==>node4==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.89,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.86,node3==>node5==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.71,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.78,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.82,node3==>node4==>node6
+node2,90,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node5==>node6
+node2,99,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.81,node3==>node5==>node6
+node2,94,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.84,node3==>node4==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,97,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.1,node3==>node5==>node6
+node2,95,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.15,node3==>node5==>node6
+node2,97,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.92,node3==>node4==>node6
+node2,93,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.64,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.7,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.41,node3==>node4==>node6
+node2,,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.46,node3==>node4==>node6
+node2,HeartRate,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.56,node3==>node5==>node6
+node2,82,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.55,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.75,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.76,node3==>node4==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.73,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.77,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.01,node3==>node4==>node6
+node2,80,node2==>node4==>node6
+node3,Abnormal Body Temp: 38.04,node3==>node4==>node6
+node2,85,node2==>node5==>node6
+node3,Abnormal Body Temp: 38.07,node3==>node5==>node6
+node2,81,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.06,node3==>node5==>node6
+node2,83,node2==>node4==>node6
+node3,Abnormal Body Temp: ,node3==>node4==>node6
+node2,82,node2==>node4==>node6
+node3,Temperature,node3==>node4==>node6
+node2,82,node2==>node5==>node6
+node3,36.58,node3==>node5==>node6
+node2,85,node2==>node5==>node6
+node3,36.73,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,36.93,node3==>node4==>node6
+node2,83,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.15,node3==>node4==>node6
+node2,80,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.23,node3==>node5==>node6
+node2,84,node2==>node5==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node5==>node6
+node2,85,node2==>node4==>node6
+node3,Abnormal Body Temp: 37.24,node3==>node4==>node6
+node2,85,node2==>node4==>node6
+node3,36.9,node3==>node4==>node6
+node2,92,node2==>node5==>node6
+node3,36.95,node3==>node5==>node6
+node2,91,node2==>node5==>node6
+node3,36.89,node3==>node5==>node6
+node2,95,node2==>node4==>node6
+node3,36.95,node3==>node4==>node6

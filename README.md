@@ -55,8 +55,11 @@ Install the follwing dependencies
 * node-red-dashboard - 2.17.1
 * node-red-contrib-sensor-ds18b20
 
+
 ### Steps
-* Import xyz
+* Import Discovery_Flow.json
+* Import 
+* Open the csv node from simulation window and configure appropriate path based on OS (Windows/Linux)
 * Deploy 
 * you should be able to see logs in debug window
 
