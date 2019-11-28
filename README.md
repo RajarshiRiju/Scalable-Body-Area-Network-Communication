@@ -58,7 +58,7 @@ Install the follwing dependencies
 
 ### Steps
 * Import Discovery_Flow.json
-* Import 
+* Import Discovery_Communication_Flow.json
 * Open the csv node from simulation window and configure appropriate path based on OS (Windows/Linux)
 * Deploy 
 * you should be able to see logs in debug window
