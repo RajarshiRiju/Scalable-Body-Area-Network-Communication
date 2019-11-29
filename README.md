@@ -55,8 +55,49 @@ Install the follwing dependencies
 * node-red-dashboard - 2.17.1
 * node-red-contrib-sensor-ds18b20
 
+### Starting NODE-RED
 
-### Steps
+Open shell/command-prompt and the jump to the project directory run the below command to start Node-RED.
+
+```
+node-red
+```
+
+This will bring up the following window.
+
+![Image 1](doc/img1.png)
+
+### Importing Flow
+
+Next step for simulation is to import the discovery and communication flow into Node-Red.
+
+To do so, we should first open the menu from the top left button and the click import. After that we select `discovery.json` and `communication.json` from the current directory.
+
+![Image 2](doc/img2.png)
+
+## Running Simulation
+
+### Discovery
+
+Select the **Discovery** flow and click on **Deploy** button on the top. And to start the simulation click on the **Start Discovery** button as shown in the image below.
+
+![Image 3](doc/img3.png)
+
+Discovery protocol will be running in the **Discovery Protocol** tab and communication protocol will be running in **Communication Protocol** tab.
+
+## Implementation
+
+To simulate discovery and communication the project uses MQTT channel to simulate wireless communication channel. Every node belong belong to one or more channel which simulate that the nodes can in communication range.
+
+### Discovery Protocol
+
+A sample of the code to simulate a discovery node is shown in the file [Discovery_Communication_Flow.json](./Import/Discovery_Communication_Flow.json).
+
+### Communication Protocol
+
+Sample code of a node participating in communication is given in th file [Discovery_Flow.json](./Import/Discovery_Flow.json)
+
+### Summary of Steps
 * Import Discovery_Flow.json
 * Import Discovery_Communication_Flow.json
 * Open the csv node from simulation window and configure appropriate path based on OS (Windows/Linux)
